@@ -2,4 +2,6 @@
 
 #### Call For Papers
 
-[1º meetup ReactJS Ceará](https://github.com/ReactJS-Ceara/meetups/issues/1)
+#### Próximos meetups
+
+[1º meetup React.js Ceará](https://github.com/reactjs-ceara/meetups/tree/master/%231-meetup)
