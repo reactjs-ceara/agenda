@@ -4,7 +4,7 @@ Sim, já é o segundo meetup :D Bora? **Dia 8 de fevereiro** estaremos na **[Mob
 
 ### Detalhes sobre o evento
 
-**Local:** Mobills Labs, [Rua Monsenhor Bruno, 1153](https://www.google.com/maps/place/Mobills+Labs/@-3.7332644,-38.5093301,15z/data=!4m2!3m1!1s0x0:0x5aa4dda3dc92877a?sa=X&ved=2ahUKEwiIvqK9zJTnAhURj1kKHbMPCDgQ_BIwEnoECAwQCg), Sala 11
+**Local:** Mobills Labs, [Rua Monsenhor Bruno, 1153](https://www.google.com/maps/place/Mobills+Labs/@-3.7332644,-38.5093301,15z/data=!4m2!3m1!1s0x0:0x5aa4dda3dc92877a?sa=X&ved=2ahUKEwiIvqK9zJTnAhURj1kKHbMPCDgQ_BIwEnoECAwQCg), Auditório
 
 **Data/horário:**: 8 de fevereiro, de 9h às 12h
 
