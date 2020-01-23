@@ -24,6 +24,6 @@ _Abrãao Alves_ [[Linkedin](https://www.linkedin.com/in/abraaoalves/)] [[Github]
 
 _Esdras Lemos_ [[Linkedin](https://www.linkedin.com/in/esdras-lemos-04400b158/)] [[Github](https://github.com/EsdrasL)]
 
-**Brincando de lego com React.js**
+**Brincando de Lego com React.js**
 
 _Cícero Viana_ [[Linkedin](https://www.linkedin.com/in/cicero-viana-ba4a2029/)] [[Github](https://github.com/cicerohen)]
