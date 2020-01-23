@@ -12,4 +12,18 @@ Sim, já é o segundo meetup :D Bora? **Dia 8 de fevereiro** estaremos na **[Mob
 
 ### Palestras
 
-Em breve.
+**Next.js, Razzle e renderToString: Server Side rendering com React**
+
+_Abdiel Brilhante_ [[Linkedin](https://www.linkedin.com/in/abdiel-brilhante-245a47135/)] [[Github](https://github.com/abdielbrilhante)]
+
+**React+Redux com Typescript**
+
+_Abrãao Alves_ [[Linkedin](https://www.linkedin.com/in/abraaoalves/)] [[Github](https://github.com/AbraaoAlves)]
+
+**Estilização rápida, simples e reutilizável com styled-components**
+
+_Esdras Lemos_ [[Linkedin](https://www.linkedin.com/in/esdras-lemos-04400b158/)] [[Github](https://github.com/EsdrasL)]
+
+**Brincando de lego com React.js**
+
+_Cícero Viana_ [[Linkedin](https://www.linkedin.com/in/cicero-viana-ba4a2029/)] [[Github](https://github.com/cicerohen)]
