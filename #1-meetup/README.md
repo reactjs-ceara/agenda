@@ -28,6 +28,9 @@ _Hiléo Andersson_ [[Linkedin](https://www.linkedin.com/in/hileo-andersson/)] [[
 
 _Anderson Madeira_ [[Linkedin](https://www.linkedin.com/in/andersonmadeiracs/)] [[Github](https://github.com/andersonmadeira)]
 
-### Slides
+### Slides e código usado nas apresentações
 
-[Acesse os slides no Google Drive](https://drive.google.com/open?id=1OR5f3st5pDFw8ln0F_WyXlDC2J2mpdg7): https://drive.google.com/open?id=1OR5f3st5pDFw8ln0F_WyXlDC2J2mpdg7
+[É possível viver sem Redux? Extraindo o máximo dos Hooks](https://drive.google.com/open?id=12k3-ydO4patQNWAvlydYXsyVqj375Tih)
+
+[Memoização e performance em componentes e hooks](https://github.com/abdielbrilhante/react-perf-examples)
+
