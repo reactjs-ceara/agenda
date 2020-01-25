@@ -28,7 +28,7 @@ _Hiléo Andersson_ [[Linkedin](https://www.linkedin.com/in/hileo-andersson/)] [[
 
 _Anderson Madeira_ [[Linkedin](https://www.linkedin.com/in/andersonmadeiracs/)] [[Github](https://github.com/andersonmadeira)]
 
-### Slides e código usado nas apresentações
+### Slides e códigos usados nas apresentações
 
 [É possível viver sem Redux? Extraindo o máximo dos Hooks](https://drive.google.com/open?id=12k3-ydO4patQNWAvlydYXsyVqj375Tih)
 
