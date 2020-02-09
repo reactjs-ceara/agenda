@@ -27,3 +27,8 @@ _Esdras Lemos_ [[Linkedin](https://www.linkedin.com/in/esdras-lemos-04400b158/)]
 **Brincando de Lego com React.js**
 
 _Cícero Viana_ [[Linkedin](https://www.linkedin.com/in/cicero-viana-ba4a2029/)] [[Github](https://github.com/cicerohen)]
+
+### Slides e códigos usados nas apresentações
+
+[Brincando de Lego com React.js](https://github.com/cicerohen/reusabilidade-com-hooks)
+
