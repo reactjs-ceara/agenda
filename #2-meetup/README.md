@@ -33,3 +33,6 @@ _Cícero Viana_ [[Linkedin](https://www.linkedin.com/in/cicero-viana-ba4a2029/)]
 [Brincando de Lego com React.js](https://github.com/cicerohen/reusabilidade-com-hooks)
 
 [Next.js, Razzle e renderToString: Server Side rendering com React](https://reactjs-ce-ssr.netlify.com/slides/1)
+
+## Fotos e vídeos
+[Album de fotos do 2º meetup React.js Ceará](https://photos.app.goo.gl/K4mFf1V8sHoiBqK36)
