@@ -6,13 +6,11 @@ Eae pessoas, vamos para o terceiro meetup :D  **Dia 4 de Abril** estaremos na **
 
 **Local:** Mobills Labs, [Rua Monsenhor Bruno, 1153](https://www.google.com/maps/place/Mobills+Labs/@-3.7332644,-38.5093301,15z/data=!4m2!3m1!1s0x0:0x5aa4dda3dc92877a?sa=X&ved=2ahUKEwiIvqK9zJTnAhURj1kKHbMPCDgQ_BIwEnoECAwQCg), Auditório
 
-**Data/horário:**: 4 de abril, de 9h às 13h
+**Data/horário:**: 4 de abril, de 14h às 17h
 
-**Inscreva-se:** 
+**Inscreva-se:** https://www.sympla.com.br/3-meetup-reactjs-ceara__792340 
 
-### Palestras
-
-https://github.com/reactjs-ceara/meetups/issues/3
+**Submeta sua palestra:**  https://github.com/reactjs-ceara/meetups/issues/3
 
 
  
