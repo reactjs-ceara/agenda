@@ -1,7 +1,7 @@
 # ReactJS Ceará - Meetups
 
 #### Call For Papers
-https://github.com/reactjs-ceara/meetups/issues/3
+[CFP 3º meetup React.js Ceará](https://github.com/reactjs-ceara/meetups/issues/3)
 
 
 #### Próximos meetups
