@@ -10,7 +10,7 @@ Portanto, no próximo sábado iremos nos reunir de forma online para discutirmos
 
 **Inscreva-se:** https://www.sympla.com.br/1-live-reactjs-ceara__825646
 
-## Detalhes sobre o funcionamento
+### Detalhes sobre o funcionamento
 
 - Os inscritos irão receber por email o link para acesso à ferramenta de meeting.
 
