@@ -18,4 +18,6 @@ Portanto, no próximo sábado iremos nos reunir de forma online para discutirmos
 
 - São válidas perguntas relacionadas a React.js, Front-end em geral e também sobre mercado para estas áreas.
 
+- As perguntas mais votadas terão prioridade durante a Live.
+
 - Iremos usar o [codesandbox.io](https://codesandbox.io/) para auxilizar no compartilhamento de código
