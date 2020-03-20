@@ -15,3 +15,5 @@ Portanto, no próximo sábado iremos nos reunir de forma online para discutirmos
 - Os inscritos irão receber por email o link para acesso à ferramenta de meeting.
 
 - Perguntas que serão debatidas durante a Live podem ser feitas por aqui: [https://app.sli.do/event/2fv1omd1](https://app.sli.do/event/2fv1omd1)
+
+- Iremos usar o [codesandbox.io](https://codesandbox.io/) para auxilizar no compartilhamento de código
