@@ -1,14 +1,4 @@
-# ReactJS Ceará - Agenda
+# Agenda de eventos
 
-#### Call For Papers
-
-
-#### Próximos eventos
-
-#### Eventos passados
-
-[2º meetup React.js Ceará](https://github.com/reactjs-ceara/meetups/tree/master/%232-meetup)
-
-[1º meetup React.js Ceará](https://github.com/reactjs-ceara/meetups/tree/master/%231-meetup)
-
+Acompanhe nossa agenda de eventos [aqui](https://github.com/orgs/reactjs-ceara/projects/2)
 
