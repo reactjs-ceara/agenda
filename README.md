@@ -1,4 +1,4 @@
 # Agenda de Eventos
 
-Acompanhe nossa agenda de eventos [aqui](https://github.com/orgs/reactjs-ceara/projects/2)
+Acompanhe o board com a agenda de eventos, [aqui](https://github.com/orgs/reactjs-ceara/projects/2)
 
